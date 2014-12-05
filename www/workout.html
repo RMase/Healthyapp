@@ -1,0 +1,96 @@
+<ion-view title="Workout Schedule">
+
+    <ion-content class="has-header" ng-controller="ToDoListCtrl">
+
+        <ion-header-bar align-title="center" class="bar-positive">
+            <button class="button button-icon icon ion-ios7-minus-outline"
+                    ng-click="data.showDelete = !data.showDelete;"></button>
+            <h1 class="title"></h1>
+            <div class="buttons">
+
+                <button class="button icon-left ion-ios7-plus-outline button-stable" ng-click="openModal()">Add Workout</button>
+            </div>
+        </ion-header-bar>
+
+        <ion-list show-delete="data.showDelete">
+
+            <ion-item class="scheduleitem" ng-repeat="item in toDoListItems" ng-show="!$first">
+
+
+
+
+                     <div class="list card">
+
+                        <h1 class="item item-input">Workout Schedule #1</h1>
+                        <label class="item item-input"> <p class="schedule">Cardio:<br><a class="listitem">{{item.task2}}</a></p></label>
+                        <label class="item item-input"><p class="schedule">Core:<br><a class="listitem">{{item.task3}}</a></p></label>
+                        <label class="item item-input"><p class="schedule">Time:<br><a class="listitem">{{item.task4}}</a></p></label>
+                        <label class="item item-input"><p class="schedule">Day of Week:<br><a class="listitem">{{item.task5}}</a></p></label>
+
+
+                        <ion-delete-button class="ion-minus-circled"
+                                 ng-click="onItemDelete(item)">
+                                        </ion-delete-button>
+                        </div>
+
+                    </div>
+
+            </ion-item>
+
+        </ion-list>
+
+    </ion-content>
+
+    <script id="modal.html" type="text/ng-template">
+        <div class="modal">
+            <div class="bar bar-header bar-calm">
+                <button class="button" ng-click="closeModal()">back</button>
+                <h1 class="title">Add Your Workout</h1>
+            </div>
+            <br>
+            <br>
+            <form ng-submit="AddItem(data)">
+                <div class="list">
+
+                    <div class="list card">
+                        <h1 class="item item-divider">Workout Schedule</h1>
+                        <label class="item item-input" ng-model="data.newItem">
+                            Weights: <input type="text" placeholder="   3 sets bench-press | 5 reps" ng-model="data.newItem">
+                        </label>
+                        <label class="item item-input">
+                            Cardio: <input type="text" placeholder="    30 min Swimming,  15 min Jogging etc." ng-model="data.newItem2">
+                        </label>
+                        <label class="item item-input">
+                            Core: <input type="text" placeholder="  100 sit-ups,  30sec planks etc" ng-model="data.newItem3">
+                        </label>
+                        <label class="item item-input">
+                            Workout Length: <input type="text" placeholder="    9:30 PM" ng-model="data.newItem4">
+                        </label>
+                        <label class="item item-input">
+                            <div class="input-label">
+                                Day of Workout:
+                            </div>
+                            <select ng-model="data.newItem5">
+                                <option selected>Monday</option>
+                                <option selected>Tuesday</option>
+                                <option selected>Wednesday</option>
+                                <option selected> Thursday</option>
+                                <option selected>Friday</option>
+                                <option selected>Saturday</option>
+                                <option selected>Sunday</option>
+
+                            </select>
+                        </label>
+
+                    </div>
+                    <button class="button button-block button-positive" type="submit">
+                        + Add Workout
+                    </button>
+                </div>
+            </form>
+        </div>
+    </script>
+
+
+
+</ion-view>

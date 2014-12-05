@@ -1,0 +1,43 @@
+<ion-view title="Top 10 Healthy Recipes">
+    <ion-content>
+        <ul class="list">
+
+            <div class="item item-divider">
+
+                <p>With this app you can:</p>
+            </div>
+
+            <ion-item ng-repeat="recipe in recipe" class="item" type="item-text-wrap" href="#/tab/test/{{recipe.id}}">
+                <p class="ion-android-checkmark">  {{recipe.title}}</p>
+            </ion-item>
+            <li ng-repeat="recipe1 in recipe1" class="item"><p class="ion-android-checkmark">  {{recipe1.fullCarName}}</p></li>
+
+
+        </ul>
+    </ion-content>
+</ion-view>
+
+
+<!---"id":0,
+"title":"Tuscan Chicken Pasta",
+"rating":"4.5 / 5",
+"prep":"10 min",
+"cook":"25 min",
+"total":"35 min",
+"ingredients":{
+"ingredients1":"2 oz Barilla Plus penne pasta",
+"ingredients2":"2 chicken breasts, pounded to 1/4 inch thickness",
+"ingredients3":"Salt and pepper",
+"ingredients4":"1 tsp olive oil",
+"ingredients5":"1 clove garlic, crushed",
+"ingredients6":"1/2 tsp dried rosemary",
+"ingredients7":"1 cup cannellini beans, rinsed",
+"ingredients9":"2 tbsp diced roasted red pepper",
+"ingredients10":"4 cups baby spinach leaves",
+"ingredients11":"2 tbsp grated parmesan"
+},
+"image":"img/image1.jpg",
+"directions":"Cook the pasta according to the package directions. While the pasta is boiling, season the chicken on each side with a pinch of salt and pepper, and sear it in a skillet over medium-high heat for 3 to 4 minutes a side. Remove from the skillet and set aside. Add the oil, garlic, rosemary, beans, red pepper, and spinach to the skillet. Cook, turning frequently, until the spinach wilts (1 to 2 minutes). Slice the chicken and drain the pasta; toss them with the bean mixture. Spoon the pasta into two bowls and top each with 1 tablespoon of parmesan."
+},
+-->
+

@@ -1,0 +1,259 @@
+[
+
+    {
+        "id":0,
+        "title":"Tuscan Chicken Pasta",
+        "calories":"405",
+        "rating":"4.5 / 5",
+        "prep":"10 min",
+        "cook":"25 min",
+        "total":"35 min",
+        "serves":"2",
+        "ingredients":{
+            "ingredients1":"2 oz Barilla Plus penne pasta",
+            "ingredients2":"2 chicken breasts, pounded to 1/4 inch thickness",
+            "ingredients3":"Salt and pepper",
+            "ingredients4":"1 tsp olive oil",
+            "ingredients5":"1 clove garlic, crushed",
+            "ingredients6":"1/2 tsp dried rosemary",
+            "ingredients7":"1 cup cannellini beans, rinsed",
+            "ingredients9":"2 tbsp diced roasted red pepper",
+            "ingredients10":"4 cups baby spinach leaves",
+            "ingredients11":"2 tbsp grated parmesan"
+        },
+        "image":"img/image1.jpg",
+        "directions":"Cook the pasta according to the package directions. While the pasta is boiling, season the chicken on each side with a pinch of salt and pepper, and sear it in a skillet over medium-high heat for 3 to 4 minutes a side. Remove from the skillet and set aside. Add the oil, garlic, rosemary, beans, red pepper, and spinach to the skillet. Cook, turning frequently, until the spinach wilts (1 to 2 minutes). Slice the chicken and drain the pasta; toss them with the bean mixture. Spoon the pasta into two bowls and top each with 1 tablespoon of parmesan."
+    },
+
+    {
+        "id": 1,
+        "title": "Butternut Squash Macaroni And Cheese",
+        "calories":"304",
+        "rating": "4.25 / 5",
+        "prep": "10 min",
+        "cook": "35 min",
+        "total": "45 min",
+        "serves": "4",
+        "ingredients": {
+            "ingredients1": "8 oz whole wheat rotini",
+            "ingredients2": "1/2 C fat-free milk",
+            "ingredients3": "6 oz butternut squash ",
+            "ingredients4": "1 cup shredded reduced-fat Cheddar cheese",
+            "ingredients5": "1/2 teaspoon salt",
+            "ingredients6": "1 tablespoon bread crumbs",
+            "ingredients7": "1/4 tsp dry mustard",
+            "ingredients9": "pepper to taste",
+            "ingredients10": "1 tablespoon parmesan, freshly shredded",
+            "ingredients11": "2 tbsp grated parmesan"
+        },
+        "image": "img/image2.jpg",
+        "directions": "[Make it!] Prepare 8 oz whole wheat rotini according to package directions. In medium saucepan, simmer 1/2 c fat-free milk with 1/2 12 oz package frozen butternut squash until combined. Remove from heat and mix with 1 c shredded reduced-fat Cheddar cheese, 1/2 tsp salt, 1/4 tsp dry mustard, and pepper to taste. Pour drained pasta into  baking dish, stir in cheese mixture, and top with 1 Tbsp each Parmesan and bread crumbs. Bake at 375°F for 20 minutes. Serves 4."
+    },
+    {
+        "id": 2,
+        "title": "Quick Pad Thai",
+        "calories":"342",
+        "rating": "3.75 / 5",
+        "prep": "15 min",
+        "cook": "10 min",
+        "total": "25 min",
+        "serves": "4",
+        "ingredients": {
+            "ingredients1": "6 oz whole-wheat cappellini or angel-hair pasta (about 1/3 16 oz box)",
+            "ingredients2": "1/2 lb chicken breast, cut into bite-size pieces (about 1 c precooked)",
+            "ingredients3": "1 tbsp fish sauce",
+            "ingredients4": "3 eggs",
+            "ingredients5": "1 clove garlic, crushed",
+            "ingredients6": "1/3 C chopped cilantro",
+            "ingredients7": "2 tsp olive oil",
+            "ingredients9": "1 tbsp creamy peanut butter",
+            "ingredients10": "1 tbsp sugar ",
+            "ingredients11": "2 tbsp red chili flakes"
+        },
+        "image": "img/image3.jpg",
+        "directions": " Cook pasta according to package directions. Toss with 1 teaspoon olive oil. Heat wok or large skillet over medium-high heat and add remaining olive oil. Add chicken pieces and saute until just browned and no longer pink (about 4 minutes). Remove from pan and set aside. In a small bowl, whisk fish sauce, peanut butter, sugar, chili flakes, and 1 tablespoon water until smooth. Set aside. Crack eggs into pan and scramble until firm. Add in chicken and cook for another 2 minutes. Add cooked pasta and peanut butter mixture to pan, tossing with chicken and eggs. Add chopped cilantro. Garnish with crushed peanuts, bean sprouts, or lime wedge if desired."
+    },
+    {
+        "id": 3,
+        "title": "Seared Scallops with White Beans and Spinach",
+        "calories": "266",
+        "rating": "5 / 5",
+        "prep": "7 min",
+        "cook": "11 min",
+        "total": "18 min",
+        "serves": "4",
+        "ingredients": {
+            "ingredients1": "2 strips bacon, chopped into small pieces",
+            "ingredients2": "1/2 red onion, minced",
+            "ingredients3": "1 clove garlic, minced",
+            "ingredients4": "1 1/2 cans white beans (14 oz each), rinsed and drained",
+            "ingredients5": "4 cups baby spinach",
+            "ingredients6": "1 lb large sea scallops",
+            "ingredients7": "Salt and black pepper to taste",
+            "ingredients9": "1 tbsp butter",
+            "ingredients10": "juice of 1 lemon"
+        },
+        "image": "img/image4.jpg",
+        "directions": "Heat a medium saucepan over low heat. Cook the bacon until it has begun to crisp. Add the onion and garlic; saute until the onion is soft and translucent, 2 to 3 minutes. Add the white beans and spinach and simmer until the beans are hot and the spinach is wilted. Keep warm. Heat a large cast-iron skillet or saute pan over medium-high heat. Blot the scallops dry with a paper towel and season with salt and pepper on both sides. Add the butter and the scallops to the pan and sear the scallops for 2 to 3 minutes per side, until deeply caramelized. Before serving, add the lemon juice to the beans. Season with salt and pepper. Divide the beans among 4 warm bowls or plates and top with scallops. "
+    },
+
+    {
+        "id": 4,
+        "title": "Lemon Herb Chicken",
+        "calories": "346",
+        "rating": "4 / 5",
+        "prep": "15 min",
+        "cook": "13 min",
+        "total": "28 min",
+        "serves": "2",
+        "ingredients": {
+            "ingredients1": "2 tbsp olive oil",
+            "ingredients2": "4 tsp olive oils",
+            "ingredients3": "2 large chicken breasts",
+            "ingredients4": "juice and zest of 1 lemon",
+            "ingredients5": "1/3 C fresh parsley",
+            "ingredients6": "1/3 C fresh mint",
+            "ingredients7": "1/3 C fresh basil",
+            "ingredients9": "Salt and pepper",
+            "ingredients10": "1/3 C white wine"
+        },
+        "image": "img/image5.jpg",
+        "directions": "Heat 2 Tbsp olive oil in an oven-proof skillet on high heat. Place the chicken in the skillet and sear for 2 minutes per side. While the chicken cooks, put the remaining 4 tsp oil, along with the lemon juice, zest, and herbs, into a blender or food processor and pulse until well mixed. Place the skillet with the chicken in a 400°F oven to roast for 8 minutes. Remove the skillet from the oven and place the chicken on a plate. Season with salt and pepper, then pour the wine into the skillet, scraping up any brown bits from the bottom of the pan. Add the herb sauce to the skillet and cook on the stove top for 1 minute, stirring frequently. Pour the sauce over the chicken."
+    },
+    {
+        "id": 5,
+        "title": "Grilled Fish Tacos",
+        "calories": "405",
+        "rating": "4.5 / 5",
+        "prep": "16 min",
+        "cook": "10 min",
+        "total": "26 min",
+        "serves": "4",
+        "ingredients": {
+            "ingredients1": "1 mango, peeled, pitted, and cubed",
+            "ingredients2": "1 avocado, pitted, peeled, and cubed",
+            "ingredients3": "1/2 red onion, finely chopped",
+            "ingredients4": "Juice of 1 lime, plus wedges for garnish",
+            "ingredients5": "chopped fresh cilantro",
+            "ingredients6": "salt and black pepper",
+            "ingredients7": "olive oil",
+            "ingredients9": "2 large mahimahi fillets (1 1/2 lb total)",
+            "ingredients10": "1 tbsp blackening spice",
+            "ingredients11": "8 corn tortillas",
+            "ingredients12": "2 cups finely shredded red cabbage"
+        },
+        "image": "img/image6.jpg",
+        "directions": "Mix the mango, avocado, onion, and the juice of 1 lime in a bowl. Season with cilantro, salt, and pepper. Heat a grill or stovetop grill pan until hot. Drizzle a light coating of oil over the fish and rub on the blackening spice. Cook the fish, undisturbed, for 4 minutes. Carefully flip with a spatula and cook for another 4 minutes. Remove. Warm the tortillas on the grill for 1 to 2 minutes or wrap in damp paper towels and microwave for 1 minute until warm and pliable. Break the fish into chunks and divide among the warm tortillas. Top with the cabbage and the mango salsa. Serve with the lime wedges."
+    },
+
+
+    {
+        "id": 6,
+        "title": "Chicken Pesto Pizza",
+        "calories": "526",
+        "rating": "4.5 / 5",
+        "prep": "15 min",
+        "cook": "10 min",
+        "total": "25 min",
+        "serves": "4",
+        "ingredients": {
+            "ingredients1": "pre-baked pizza shell",
+            "ingredients2": "1/3 cup prepared pesto",
+            "ingredients3": "1 cup cooked chicken cut into small strips",
+            "ingredients4": "1 roasted red pepper, cut into small strips",
+            "ingredients5": "1/2 cup water-packed canned artichoke hearts, rinsed and drained, patted dry and quartered",
+            "ingredients6": "1/2 cup (2 ounces) crumbled goat cheese",
+            "ingredients7": "2 tbsp diced roasted red pepper",
+            "ingredients8": "4 cups baby spinach leaves",
+            "ingredients9": "2 tbsp grated parmesan"
+        },
+        "image": "img/image7.jpg",
+        "directions": "Preheat the oven to 450°F. Place the pizza shell on a baking sheet. Evenly spread the pesto over the crust. Arrange the chicken, pepper strips, and artichokes over the pesto. Top with the cheese. Bake for 10 minutes, or until heated through and the crust is crisp. "
+    },
+
+    {
+        "id": 7,
+        "title": "Beef Empanadas",
+        "calories": "315",
+        "rating": "3.5 / 5",
+        "prep": "12 min",
+        "cook": "18 min",
+        "total": "30 min",
+        "serves": "4",
+        "ingredients": {
+            "ingredients1": "1 cup onions",
+            "ingredients2": "1 tsp olive oil",
+            "ingredients3": "1/2 lb ground beef",
+            "ingredients4": "2 tsp cumin",
+            "ingredients5": "2 tsp wine vinegar",
+            "ingredients6": "1 tsp sugar",
+            "ingredients7": "1/2 tsp salt",
+            "ingredients9": "1/4 tsp pepper",
+            "ingredients10": "11 oz Thin-crust pizza dough"
+        },
+        "image": "img/image8.jpg",
+        "directions": "Heat oven to 400Â°F. Saute 1 cup onions in 1 tsp olive oil over medium-high heat, 3 minutes. Add 1/2 lb ground beef and brown, 5 minutes. Take off heat. Stir in 2 tsp cumin, 2 tsp wine vinegar, 1 tsp sugar, 1/2 tsp salt, and 1/4 tsp pepper. Stretch an 11 oz package of dough to form in a rectangle. Cut into 8 equal pieces. Spoon beef mixture on top of each piece. Fold in half diagonally and crimp edges to seal. Put on a greased baking sheet. Coat with cooking spray, poke with a fork, and bake 10 minutes."
+    },
+
+    {
+        "id": 8,
+        "title": "Healthy Arroz con Pollo",
+        "calories": "471",
+        "rating": "4.75 / 5",
+        "prep": "15 min",
+        "cook": "1 hr",
+        "total": "1hr 15 min",
+        "serves": "4",
+        "ingredients": {
+            "ingredients1": "1 3/4 C canned whole tomatoes",
+            "ingredients2": "1 tbsp olive oil",
+            "ingredients3": "4 boneless, skinless chicken breasts (1 1/2 lb total)",
+            "ingredients4": "1/2 tsp salt",
+            "ingredients5": "1/4 tsp black pepper ",
+            "ingredients6": "1 red bell pepper, chopped",
+            "ingredients7": "1/2 C chopped onion",
+            "ingredients9": "2 sm cloves garlic, minced",
+            "ingredients10": "1 C brown rice",
+            "ingredients11": "1 3/4 C chicken stock (we used Kitchen Basics)",
+            "ingredients12": "1/4 tsp ground turmeric or paprika",
+            "ingredients13": "1 bay leaf",
+            "ingredients14": "1 C frozen baby peas, thawed",
+            "ingredients15": "1/2 C chopped fresh basil"
+        },
+        "image": "img/image9.jpg",
+        "directions": "Put tomatoes (with juice) in food processor and process until coarsely chopped. Set aside. Heat oil in large heavy frying pan over medium-high heat. Season chicken with 1/4 teaspoon of the salt and 1/8 teaspoon of the black pepper. Brown chicken breasts about 3 minutes per side. Transfer to plate. Add bell pepper, onion, and garlic to pan and cook until softened, 5 minutes. Add rice and cook, stirring, about 1 minute. Stir in stock, chopped tomatoes, turmeric, bay leaf, and remaining 1/4 teaspoon salt and 1/8 teaspoon black pepper. Bring to a boil over high heat. Reduce heat to medium-low, cover pan, and simmer 25 minutes. Return chicken to pan and nestle into rice mixture. Cover and simmer 15 minutes longer. Stir in peas and cook until rice is done, 5 minutes. Remove bay leaf. Serve sprinkled with basil. "
+    },
+
+    {
+        "id": 9,
+        "title": "Beef and Eggplant Tagine",
+        "calories": "380",
+        "rating": "5 / 5",
+        "prep": "20 min",
+        "cook": "25 min",
+        "total": "45 min",
+        "serves": "4",
+        "ingredients": {
+            "ingredients1": "12 ounces 95% lean ground beef",
+            "ingredients2": "1/2 tablespoon olive oil",
+            "ingredients3": "1 medium eggplant, peeled and cut into 1 inch cubes",
+            "ingredients4": "2 small yellow squash, cut into quarter rounds",
+            "ingredients5": "4 cloves garlic, smashed",
+            "ingredients6": "1 teaspoon garam masala",
+            "ingredients7": "1/2 teaspoon ground cinnamon",
+            "ingredients9": "1 tablespoon slivered fresh ginger",
+            "ingredients10": "1 can (14.5 ounces) diced tomatoes with basil and oregano",
+            "ingredients11": "1/2 cup small pitted black olives, halved",
+            "ingredients12": "1/2 cup canned chickpeas, rinsed and drained",
+            "ingredients13": "1/8 teaspoon salt",
+            "ingredients14": "3 teaspoons mild hot sauce",
+            "ingredients15": "2 cups cooked whole wheat couscous",
+            "ingredients16": "2 tablespoons chopped pistachios"
+
+        },
+        "image": "img/image10.jpg",
+        "directions": "Heat a large nonstick saucepan or deep skillet coated with cooking spray over medium-high heat. Add the beef and cook for 6 to 8 minutes, or until no longer pink, stirring and breaking up the meat with the side of a spoon. Transfer to a bowl and set aside. Heat the oil in the same skillet. Add the eggplant and cook for 5 minutes, stirring occasionally. Add the squash, garlic, garam masala, cinnamon, and ginger. Cook, stirring frequently, for 1 minute, or until the spices are fragrant and toasted.Add the tomatoes, olives, chickpeas, salt, and beef. Bring to a simmer and cook, covered, for 10 minutes or until the vegetables are tender. Remove from the heat and stir in the hot sauce. Serve with the couscous and sprinkle with the pistachios. "
+    }
+
+
+]
